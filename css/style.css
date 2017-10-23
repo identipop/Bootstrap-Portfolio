@@ -362,8 +362,8 @@ ul.navbar li a:hover, ul.navbar li a.active, .navbar-default .navbar-nav>li>a:ho
 	color: #94d1dd ;
 }
 .fa-arrow-up{
-	margin-right: 25px;
-	padding: 5px;
+	margin-right: 15px;
+	padding: 15px;
 	border-radius: 50%;
 	transition: all .5s ease 0s;
 	-webkit-transition: all .5s ease 0s;
